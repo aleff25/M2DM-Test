@@ -1,0 +1,1 @@
+{"M2DM Test":{"name":"M2DM Test","packages":{"br.com.iscte":{"packageName":"br.com.iscte","isAll":false,"classes":["Lbr/com/iscte/UseOcl;"]}}}}
